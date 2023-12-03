@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+A simple To-Do List application with a pink theme - built with React and styled using styled-components.
+
+<h2>Features</h2>
+
+- Add new tasks to the list
+- Mark tasks as complete
+- Edit existing tasks
+
+_________________________________________________________
+
+
+<h2>Getting Started</h2>
+
+1. Clone the repository: 
+2. Navigate to the projects directory
+3. Install dependencies: 
+    - npm install styled-components
+
+_________________________________________________________
+
+
+<h2>Usage</h2>
+
+- Enter a task in the input field and click "Add" to add it to the list.
+- Click on a task to mark it as complete. Completed tasks will be displayed with a strikethrough.
+- Click the "Edit" button to edit an existing task.
+- Click the "Delete" button to delete an existing task.
